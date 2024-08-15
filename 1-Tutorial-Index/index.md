@@ -24,12 +24,18 @@
 
 **4. Pengenalan C#**
 
--   Apa itu C#?
--   Menulis program C# pertama Anda
--   Variabel dan tipe data
--   Operasi input/output dasar
--   Struktur kontrol (if, switch, loops)
--   Fungsi dan metode
+-	Apa itu bahasa pemrograman C#?
+-	Sejarah bahasa pemrograman C#
+-	Menulis program C# pertama anda
+-	Pengenalan variabel dan tipe data
+-	Operasi input/output dasar
+-	Struktur kontrol kondisi (if, switch)
+-	Struktur pengulangan (for, while, do-while, foreach)
+-	Pengenalan fungsi/method
+-	Perbedaan fungsi/method pass by reference dan pass by value
+-	Pengenalan array 1 dimensi
+-	Pengenalan array 2 dimensi
+
 
 **5. Pemrograman Berorientasi Objek dalam C#**
 
