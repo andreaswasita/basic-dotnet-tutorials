@@ -1,6 +1,6 @@
 ### **Pengenalan Pemrograman**
 
-#### **1.1. Apa itu Pemrograman?**
+#### **1. Apa itu Pemrograman?**
 
 1. **Definisi Pemrograman**
    - **Pemrograman** adalah proses menulis serangkaian instruksi, yang disebut kode, yang memberitahu komputer bagaimana melakukan tugas tertentu. Bayangkan komputer sebagai alat yang sangat pintar, tetapi tidak bisa melakukan apa-apa tanpa instruksi yang jelas. Pemrograman adalah cara kita memberikan instruksi-instruksi itu kepada komputer. Instruksi-instruksi ini ditulis dalam bahasa pemrograman yang dapat dipahami oleh komputer.
@@ -95,7 +95,7 @@
    **Penjelasan:**
    - Program ini menyimpan nilai-nilai siswa dalam array `nilai`, menghitung totalnya dengan menjumlahkan setiap elemen array, dan kemudian membagi totalnya dengan jumlah siswa untuk mendapatkan rata-rata. Hasil akhirnya dicetak ke layar.
 
-#### **1.2. Gambaran Umum Bahasa Pemrograman**
+#### **2. Gambaran Umum Bahasa Pemrograman**
 
 1. **Apa Itu Bahasa Pemrograman?**
    - Bahasa pemrograman adalah alat yang kita gunakan untuk menulis kode. Sama seperti bahasa manusia, bahasa pemrograman memiliki aturan tata bahasa dan struktur yang harus diikuti agar kode tersebut dapat dimengerti oleh komputer. Setiap bahasa pemrograman memiliki karakteristik dan tujuan penggunaan yang berbeda-beda.
@@ -171,7 +171,7 @@
    **Contoh:**
    Jika Anda ingin mengembangkan aplikasi desktop untuk Windows, maka C# dengan WPF atau WinForms adalah pilihan yang baik karena integrasinya yang erat dengan platform Windows.
 
-#### **1.3. Pengenalan IDE (Integrated Development Environments)**
+#### **3. Pengenalan IDE (Integrated Development Environments)**
 
 1. **Apa itu IDE?**
    - IDE (Integrated Development Environment) adalah aplikasi perangkat lunak yang menyediakan alat yang diperlukan untuk menulis, menguji, dan men-debug program. IDE biasanya mencakup editor kode, kompiler atau interpreter, debugger, dan fitur-fitur lain yang membuat pengembangan perangkat lunak lebih efisien.
