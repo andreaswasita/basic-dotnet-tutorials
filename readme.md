@@ -1,10 +1,10 @@
-**1. Pengenalan Pemrograman**
+**[1. Pengenalan Pemrograman](./2-Pengenalan-Pemrograman/index.md)**
 
 -   Apa itu pemrograman?
 -   Gambaran umum bahasa pemrograman
 -   Pengenalan IDE (Integrated Development Environments)
 
-**2. Pengenalan .NET**
+**[2. Pengenalan .NET](./3-Pengenalan-Dotnet/index.md)**
 
 -   Apa itu .NET?
 -   Gambaran umum .NET Framework, .NET Core, dan .NET 8
