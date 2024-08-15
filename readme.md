@@ -58,7 +58,7 @@
 -   Exception khusus
 -   Praktik terbaik dalam penanganan kesalahan
 
-### 8\. Pemrograman Asynchronous dengan .NET
+**8. Pemrograman Asynchronous dengan .NET**
 
 -   Pengenalan Pemrograman asynchronous
 -   Mengapa Pemrograman asynchronous penting?
@@ -75,17 +75,14 @@
 -   Bekerja dengan streams
 -   Manajemen file dan direktori di .NET
 
-### 10\. Dependency Injection di .NET
+**10. Dependency Injection di .NET**
 
 -   Apa itu Dependency Injection?
 -   Mengapa Dependency Injection penting dalam pengembangan perangkat lunak?
 -   Gambaran umum cara kerja Dependency Injection di .NET
--   Mengkonfigurasi Dependency Injection di .NET
--   Menggunakan `AddScoped`, `AddTransient`, dan `AddSingleton`:
+-   Konfigurasi Dependency Injection di .NET
+-   Menggunakan `AddScoped`, `AddTransient`, dan `AddSingleton`
 
--   **AddScoped**: Menjelaskan bagaimana layanan diatur per permintaan.
--   **AddTransient**: Menjelaskan bagaimana layanan baru diatur setiap kali diminta.
--   **AddSingleton**: Menjelaskan bagaimana layanan dibuat sekali dan digunakan kembali selama aplikasi berjalan.
 
 **11. Pengenalan Database**
 
@@ -135,35 +132,35 @@
 
 **17. Keamanan dalam Aplikasi .NET**
 
-**Dasar-Dasar Kriptografi**
+- **Dasar-Dasar Kriptografi**
 
--   Pengenalan kriptografi
--   Enkripsi simetris vs. asimetris
--   Algoritma hashing dan penggunaannya
--   Infrastruktur kunci publik (PKI) dan sertifikat
+  -   Pengenalan kriptografi
+  -   Enkripsi simetris vs. asimetris
+  -   Algoritma hashing dan penggunaannya
+  -   Infrastruktur kunci publik (PKI) dan sertifikat
 
-**Kriptografi dalam .NET**
+- **Kriptografi dalam .NET**
 
--   Gambaran umum pustaka kriptografi .NET
--   Menerapkan enkripsi simetris (AES, DES)
--   Bekerja dengan enkripsi asimetris (RSA)
--   Menghasilkan dan memverifikasi hashes (SHA, MD5)
--   Tanda tangan digital dalam .NET
--   Mengelola dan menggunakan kunci kriptografi
+  -   Gambaran umum pustaka kriptografi .NET
+  -   Menerapkan enkripsi simetris (AES, DES)
+  -   Bekerja dengan enkripsi asimetris (RSA)
+  -   Menghasilkan dan memverifikasi hashes (SHA, MD5)
+  -   Tanda tangan digital dalam .NET
+  -   Mengelola dan menggunakan kunci kriptografi
 
-**Enkripsi Data dalam .NET**
+- **Enkripsi Data dalam .NET**
 
--   Mengenkripsi dan mendekripsi data
--   Melindungi informasi sensitif
--   Praktik terbaik dalam enkripsi
--   Bekerja dengan secure strings dan perlindungan memori
+  -   Mengenkripsi dan mendekripsi data
+  -   Melindungi informasi sensitif
+  -   Praktik terbaik dalam enkripsi
+  -   Bekerja dengan secure strings dan perlindungan memori
 
-**Otentikasi dan Otorisasi**
+- **Otentikasi dan Otorisasi**
 
--   Gambaran umum otentikasi dan otorisasi
--   Menerapkan ASP.NET Core Identity
--   Bekerja dengan JWT (JSON Web Tokens)
--   Mengamankan Web APIs
+  -   Gambaran umum otentikasi dan otorisasi
+  -   Menerapkan ASP.NET Core Identity
+  -   Bekerja dengan JWT (JSON Web Tokens)
+  -   Mengamankan Web APIs
 
 **18. Deployment dan Hosting**
 
@@ -180,7 +177,7 @@
 -   Pengenalan Blazor untuk pengembangan web
 -   Arsitektur Microservices dengan .NET
 
-**20\. Tips dan Triks**
+**20. Tips dan Triks**
 
 -   Menulis kode yang bersih dan mudah dipelihara
 -   Refaktoring dan meningkatkan kualitas kode
