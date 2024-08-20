@@ -22,21 +22,32 @@
 -   Menjalankan dan debugging aplikasi .NET menggunakan Visual Studio
 -   Contoh penggunaan dotnet cli dalam membuat aplikasi sederhana menggunakan C#
 
-**4. Pengenalan C#**
+**[4. Pengenalan C#](./5-Pengenalan-CSharp/index.md)**
 
 -	Apa itu bahasa pemrograman C#?
 -	Sejarah bahasa pemrograman C#
 -	Menulis program C# pertama anda
 -	Pengenalan variabel dan tipe data
 -	Operasi input/output dasar
+- Perbedaan `Console.ReadLine()` dan `Console.ReadKey()`
+
+
+**5. Statement Kondisi dan Pengulangan di C#**
 -	Struktur kontrol kondisi (if, switch)
 -	Struktur pengulangan (for, while, do-while, foreach)
+
+**6. Fungsi/method di C#**
 -	Pengenalan fungsi/method
 -	Perbedaan fungsi/method pass by reference dan pass by value
--	Pengenalan array 1 dimensi
--	Pengenalan array 2 dimensi
+-	Apa itu fungsi rekursif dan implementasinya di C#?
 
-**5. Pemrograman Berorientasi Objek dalam C#**
+**7. Array di C#**
+-	Pengenalan array 1 dimensi
+-	Contoh array 1 dimensi
+-	Pengenalan array 2 dimensi
+-	Contoh array 2 dimensi
+
+**8. Pemrograman Berorientasi Objek dalam C#**
 
 -   Memahami prinsip OOP (enkapsulasi, pewarisan, polimorfisme, abstraksi)
 -   Membuat dan menggunakan kelas serta objek
@@ -44,21 +55,21 @@
 -   Bekerja dengan interface dan kelas abstrak
 -   Menerapkan pewarisan dan polimorfisme
 
-**6. Koleksi dan Generik dalam C#**
+**9. Koleksi dan Generik dalam C#**
 
 -   Bekerja dengan array dan list
 -   Memahami dictionaries dan sets
 -   Menggunakan LINQ dengan koleksi
 -   Pengenalan generik dan keuntungannya
 
-**7. Penanganan Exception dalam C#**
+**10. Penanganan Exception dalam C#**
 
 -   Apa itu exception?
 -   Blok try-catch-finally
 -   Exception khusus
 -   Praktik terbaik dalam penanganan kesalahan
 
-**8. Pemrograman Asynchronous dengan .NET**
+**11. Pemrograman Asynchronous dengan .NET**
 
 -   Pengenalan Pemrograman asynchronous
 -   Mengapa Pemrograman asynchronous penting?
@@ -69,13 +80,13 @@
 
 -   Contoh penggunaan async/await di aplikasi nyata
 
-**9. Operasi File I/O**
+**12. Operasi File I/O**
 
 -   Membaca dan menulis file
 -   Bekerja dengan streams
 -   Manajemen file dan direktori di .NET
 
-**10. Dependency Injection di .NET**
+**13. Dependency Injection di .NET**
 
 -   Apa itu Dependency Injection?
 -   Mengapa Dependency Injection penting dalam pengembangan perangkat lunak?
@@ -84,14 +95,14 @@
 -   Menggunakan `AddScoped`, `AddTransient`, dan `AddSingleton`
 
 
-**11. Pengenalan Database**
+**14. Pengenalan Database**
 
 -   Apa itu database?
 -   Pengenalan SQL
 -   Memahami database relasional (SQL Server.)
 -   Gambaran umum alat manajemen database (SQL Server Management Studio)
 
-**12. Menghubungkan ke Database dengan ADO.NET**
+**15. Menghubungkan ke Database dengan ADO.NET**
 
 -   Apa itu ADO.NET?
 -   Mengatur koneksi database
@@ -99,7 +110,7 @@
 -   Membaca data dengan DataReader dan DataSet
 -   Menyisipkan, memperbarui, dan menghapus data
 
-**13. Pengenalan Entity Framework Core**
+**16. Pengenalan Entity Framework Core**
 
 -   Apa itu ORM (Object-Relational Mapping)?
 -   Gambaran umum Entity Framework Core
@@ -108,13 +119,13 @@
 -   Membuat dan menerapkan migrasi
 -   Melakukan kueri ke database SQL Server menggunakan LINQ
 
-**14. Membangun Aplikasi Berbasis Data**
+**17. Membangun Aplikasi Berbasis Data**
 
 -   Membuat aplikasi sederhana berbasis data dengan ADO.NET
 -   Refaktoring untuk menggunakan Entity Framework Core
 -   Praktik terbaik dalam akses data
 
-**15. Pengenalan ASP.NET Core**
+**18. Pengenalan ASP.NET Core**
 
 -   Gambaran umum ASP.NET Core
 -   Mengatur aplikasi web ASP.NET Core
@@ -122,7 +133,7 @@
 -   Membuat controllers, views, dan models
 -   Routing di ASP.NET Core
 
-**16. Membangun RESTful APIs dengan ASP.NET Core**
+**19. Membangun RESTful APIs dengan ASP.NET Core**
 
 -   Apa itu RESTful API?
 -   Membuat proyek Web API
@@ -130,7 +141,7 @@
 -   Menangani HTTP requests dan responses
 -   Bekerja dengan JSON dalam Web APIs
 
-**17. Keamanan dalam Aplikasi .NET**
+**20. Keamanan dalam Aplikasi .NET**
 
 - **Dasar-Dasar Kriptografi**
 
@@ -162,7 +173,7 @@
   -   Bekerja dengan JWT (JSON Web Tokens)
   -   Mengamankan Web APIs
 
-**18. Deployment dan Hosting**
+**21. Deployment dan Hosting**
 
 -   Melakukan deployment aplikasi .NET ke IIS
 -   Hosting di platform cloud Microsoft Azure
@@ -171,13 +182,13 @@
 -   Continuous Integration/Continuous Deployment (CI/CD) dengan GitHub Actions
 -   Memahami Docker dan kontainerisasi aplikasi .NET
 
-**19. Topik Lanjutan (Opsional untuk Pemula)**
+**22. Topik Lanjutan (Opsional untuk Pemula)**
 
 -   Bekerja dengan GraphQL dalam .NET
 -   Pengenalan Blazor untuk pengembangan web
 -   Arsitektur Microservices dengan .NET
 
-**20. Tips dan Triks**
+**23. Tips dan Triks**
 
 -   Menulis kode yang bersih dan mudah dipelihara
 -   Refaktoring dan meningkatkan kualitas kode
