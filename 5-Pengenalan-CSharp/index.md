@@ -12,7 +12,7 @@ C# (dibaca "C-sharp") adalah bahasa pemrograman yang dikembangkan oleh Microsoft
 #### Sejarah Bahasa Pemrograman C#
 C# pertama kali diperkenalkan pada tahun 2000 oleh Microsoft sebagai bagian dari .NET Framework. Bahasa ini dirancang oleh Anders Hejlsberg, yang juga pernah mengembangkan bahasa Turbo Pascal dan Delphi. C# telah mengalami banyak perkembangan sejak versi pertama, dengan tambahan fitur-fitur baru di setiap versi untuk mendukung pengembangan perangkat lunak yang lebih canggih dan efisien.
 
-**Beberapa Tonggak Penting:**
+**Beberapa Sejarah C#:**
 - **C# 1.0 (2002):** Versi pertama yang mendukung konsep dasar OOP seperti kelas, objek, dan pewarisan.
 - **C# 2.0 (2005):** Memperkenalkan fitur seperti generics, iterators, dan nullable types.
 - **C# 3.0 (2007):** Memperkenalkan LINQ (Language Integrated Query) untuk memudahkan manipulasi data.
