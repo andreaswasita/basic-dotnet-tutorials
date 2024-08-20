@@ -54,6 +54,8 @@ namespace MyFirstApp
 }
 ```
 
+![Sample run](./Assets/code-1.png)
+
 #### 2. Mengatur Lingkungan Pengembangan (Visual Studio Code)
 
 **Langkah-langkah Mengatur Visual Studio Code untuk .NET 8:**
@@ -100,6 +102,8 @@ namespace MyFirstApp
     }
 }
 ```
+![Sample run](./Assets/code-2.png)
+
 
 #### 3. Membuat Aplikasi Console .NET Pertama Anda Menggunakan C#
 
@@ -145,6 +149,7 @@ namespace MyFirstApp
        }
    }
    ```
+   ![Sample run](./Assets/code-3.png)
 
 4. **Menjalankan Aplikasi:**
    - Untuk menjalankan aplikasi, klik tombol **Run** di toolbar atau tekan `Ctrl + F5`.
@@ -169,12 +174,13 @@ namespace MyFirstApp
        Console.WriteLine(language);
    }
    ```
+   ![Sample run](./Assets/code-4.png)
 
    - Jalankan kembali aplikasi untuk melihat hasilnya.
 
 #### 4. Memahami Struktur Proyek (Program.cs, .csproj, Solution, dll)
 
-**Komponen Utama Proyek .NET 8:**
+**Komponen Utama Proyek .NET 8/9:**
 
 1. **Program.cs:**
    - Ini adalah file utama yang berisi titik masuk aplikasi. Di sini, fungsi `Main` dijalankan pertama kali saat aplikasi dimulai.
@@ -199,6 +205,7 @@ namespace MyFirstApp
        }
    }
    ```
+   ![Sample run](./Assets/code-5.png)
 
 2. **.csproj (C# Project File):**
    - File `.csproj` adalah file XML yang berisi konfigurasi proyek, seperti referensi pustaka, target framework, dan informasi lainnya yang diperlukan untuk membangun proyek.
@@ -285,6 +292,7 @@ namespace MyFirstApp
     }
 }
 ```
+![Sample run](./Assets/code-6.png)
 
 #### 6. Contoh Penggunaan dotnet CLI dalam Membuat Aplikasi Sederhana Menggunakan C#
 
@@ -319,6 +327,7 @@ namespace MyFirstApp
        }
    }
    ```
+   ![Sample run](./Assets/code-7.png)
 
    - Simpan file dan kembali ke terminal.
 
@@ -353,6 +362,7 @@ namespace MyFirstApp
        }
    }
    ```
+   ![Sample run](./Assets/code-8.png)
 
 6. **Mempublikasikan Aplikasi:**
    - Untuk mendistribusikan aplikasi Anda, Anda bisa mempublikasikannya menggunakan perintah berikut:

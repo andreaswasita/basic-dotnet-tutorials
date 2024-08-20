@@ -5,6 +5,9 @@
 
 **Sejarah Singkat .NET:**
 
+![.NET Newer Release](./Assets/dotnet-releases.png)
+
+
 .NET pertama kali dirilis pada tahun 2002 dengan .NET Framework. Ini dirancang untuk membantu pengembang membangun aplikasi Windows. Seiring berjalannya waktu, Microsoft memperluas .NET menjadi platform lintas platform dengan memperkenalkan .NET Core pada tahun 2016. Pada tahun 2020, Microsoft merilis .NET 5, yang menyatukan .NET Framework dan .NET Core menjadi satu platform tunggal yang dikenal sebagai .NET.
 
 **Tujuan Utama .NET:**
@@ -33,6 +36,8 @@ Pengembang dapat menggunakan .NET 6 untuk membangun aplikasi web modern dengan A
 
 ##### **1 Apa itu CLR?**
 CLR (Common Language Runtime) adalah jantung dari .NET. Ini adalah mesin virtual yang mengelola eksekusi kode .NET, menyediakan layanan seperti manajemen memori, penanganan eksepsi, dan keamanan.
+
+![.NET CLR](./Assets/clr.png)
 
 #### **Fungsi Utama CLR:**
 - **Manajemen Memori:** CLR otomatis mengelola alokasi dan dealokasi memori, mencegah kebocoran memori.
@@ -89,6 +94,8 @@ public class MathLibrary
 
 **Langkah-langkah Menginstal .NET SDK:**
 1. **Kunjungi Situs Resmi .NET:**
+
+   ![.NET SDK](./Assets/dotnet-sdk.png)
    - Buka [situs resmi .NET](https://dotnet.microsoft.com/download).
    - Pilih versi .NET SDK yang ingin Anda instal (misalnya, .NET 6).
    
@@ -97,10 +104,16 @@ public class MathLibrary
    - Unduh file installer.
 
 3. **Jalankan Installer:**
+
+   ![.NET SDK](./Assets/dotnet-sdk-run.png)
+
    - Setelah unduhan selesai, buka file installer.
    - Ikuti petunjuk di layar untuk menyelesaikan instalasi. Biasanya, ini melibatkan persetujuan lisensi dan memilih direktori instalasi.
 
 4. **Verifikasi Instalasi:**
+
+   ![.NET Verify](./Assets/dotnet-verify.png)
+
    - Setelah instalasi selesai, buka Command Prompt atau Terminal.
    - Ketik perintah `dotnet --version` dan tekan Enter untuk memastikan bahwa SDK telah terinstal dengan benar.
    - Output harus menampilkan versi .NET yang telah Anda instal, misalnya `6.0.100`.
@@ -119,6 +132,9 @@ Visual Studio adalah IDE (Integrated Development Environment) yang kuat dan popu
    - Installer akan mengunduh komponen tambahan yang diperlukan, jadi pastikan Anda terhubung ke internet.
 
 3. **Pilih Workloads:**
+
+   ![VS Workload](./Assets/vs-workload.png)
+
    - Saat diminta, pilih workloads yang Anda butuhkan. Untuk pengembangan .NET, pilih:
      - **ASP.NET and web development:** Untuk membangun aplikasi web menggunakan ASP.NET Core.
      - **Desktop development with .NET:** Untuk membangun aplikasi desktop menggunakan Windows Forms atau WPF.
@@ -155,6 +171,9 @@ Visual Studio Code (VS Code) adalah editor kode sumber yang ringan namun sangat 
    - Klik ikon Extensions di sidebar kiri VS Code (ikon berbentuk kotak).
    
 2. **Cari Ekstensi C#:**
+
+   ![VSCode Extension](./Assets/vscode-ext.png)
+
    - Di kotak pencarian, ketik "C#" dan pilih ekstensi yang dibuat oleh Microsoft.
    - Klik "Install" untuk menginstal ekstensi C#.
 
