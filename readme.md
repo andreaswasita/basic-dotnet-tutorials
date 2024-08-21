@@ -1,10 +1,10 @@
-**[1. Pengenalan Pemrograman](./2-Pengenalan-Pemrograman/index.md)**
+**[1. Pengenalan Pemrograman](./1-Pengenalan-Pemrograman/index.md)**
 
 -   Apa itu pemrograman?
 -   Gambaran umum bahasa pemrograman
 -   Pengenalan IDE (Integrated Development Environments)
 
-**[2. Pengenalan .NET](./3-Pengenalan-Dotnet/index.md)**
+**[2. Pengenalan .NET](./2-Pengenalan-Dotnet/index.md)**
 
 -   Apa itu .NET?
 -   Gambaran umum .NET Framework, .NET Core, dan .NET 8
@@ -13,7 +13,7 @@
 -   Cara menginstall .NET SDK dan Visual Studio
 -   Cara menginstall .NET SDK dan Visual Studio Code
 
-**[3. Memulai dengan .NET](./4-Memulai-Dengan-Dotnet/index.md)**
+**[3. Memulai dengan .NET](./3-Memulai-Dengan-Dotnet/index.md)**
 
 -   Mengatur lingkungan pengembangan (Visual Studio/VS Code)
 -   Mengatur lingkungan pengembangan (Visual Studio Code)
@@ -22,7 +22,7 @@
 -   Menjalankan dan debugging aplikasi .NET menggunakan Visual Studio
 -   Contoh penggunaan dotnet cli dalam membuat aplikasi sederhana menggunakan C#
 
-**[4. Pengenalan C#](./5-Pengenalan-CSharp/index.md)**
+**[4. Pengenalan C#](./4-Pengenalan-CSharp/index.md)**
 
 -	Apa itu bahasa pemrograman C#?
 -	Sejarah bahasa pemrograman C#
@@ -32,11 +32,11 @@
 - Perbedaan `Console.ReadLine()` dan `Console.ReadKey()`
 
 
-**5. Statement Kondisi dan Pengulangan di C#**
+**[5. Statement Kondisi dan Pengulangan di C#](./5-Statement-Kondisi-Dan-Pengulangan/index.md)**
 -	Struktur kontrol kondisi (if, switch)
 -	Struktur pengulangan (for, while, do-while, foreach)
 
-**6. Fungsi/method di C#**
+**[6. Fungsi/method di C#](./6-Fungsi-Atau-Method/index.md)**
 -	Pengenalan fungsi/method
 -	Perbedaan fungsi/method pass by reference dan pass by value
 -	Apa itu fungsi rekursif dan implementasinya di C#?
